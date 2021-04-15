@@ -16,10 +16,10 @@ const Experience = () => {
         </Grid>
         <Grid item xs={3}>
           <Flip bottom delay={100}>
-            2017 – 2021
+            05/2019 – 08/2020
           </Flip>
           <Flip bottom delay={400}>
-            Kitchener ON
+            Cambridge ON
           </Flip>
         </Grid>
         <Grid item xs={9}>

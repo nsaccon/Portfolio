@@ -3,6 +3,7 @@ import Header from "./Components/Header";
 import TechnicalSkills from "./Components/TechnicalSkills";
 import Education from "./Components/Education";
 import Experience from "./Components/Experience";
+import Projects from "./Components/Projects";
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <Education />
       <Experience />
       </div>
+      <hr />
+      <Projects />
     </div>
   );
 }

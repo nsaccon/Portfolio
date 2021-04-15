@@ -21,65 +21,65 @@ const DevIcons = () => {
     <Grid container spacing={2}>
       <Grid item xs={4}>
         <Fade left delay={300}>
-          <SiCsharp size={size} title="C#" />
+          <div className='devicon'><SiCsharp size={size} title="C#" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={800}>
-          <SiPython size={size} title="Python" />
+          <div className='devicon'><SiPython size={size} title="Python" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={1300}>
-          <SiJavascript size={size} title="Javascript" />
+          <div className='devicon'><SiJavascript size={size} title="Javascript" /></div>
         </Fade>
       </Grid>
 
       <Grid item xs={4}>
       <Fade left delay={300}>
-        <FaGit size={size} title="Git" />
+        <div className='devicon'><FaGit size={size} title="Git" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={800}>
-        <SiDocker size={size} title="Docker" />
+        <div className='devicon'><SiDocker size={size} title="Docker" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={1300}>
-        <SiKubernetes size={size} title="Kubernetes" />
+        <div className='devicon'><SiKubernetes size={size} title="Kubernetes" /></div>
         </Fade>
       </Grid>
 
       <Grid item xs={4}>
       <Fade left delay={300}>
-        <DiVisualstudio size={size} title="Visual Studio" />
+        <div className='devicon'><DiVisualstudio size={size} title="Visual Studio" /></div>
         </ Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={800}>
-        <SiAzuredevops size={size} title="Azure DevOps" />
+        <div className='devicon'><SiAzuredevops size={size} title="Azure DevOps" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={1300}>
-        <SiReact size={size} title="React.js" />
+        <div className='devicon'><SiReact size={size} title="React.js" /></div>
         </Fade>
       </Grid>
 
       <Grid item xs={4}>
       <Fade left delay={300}>
-        <SiBootstrap size={size} title="Bootstrap" />
+        <div className='devicon'><SiBootstrap size={size} title="Bootstrap" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={800}>
-        <SiMysql size={size} title="SQL" />
+        <div className='devicon'><SiMysql size={size} title="SQL" /></div>
         </Fade>
       </Grid>
       <Grid item xs={4}>
       <Fade left delay={1300}>
-        <SiGithub size={size} title="GitHub" />
+        <div className='devicon'><SiGithub size={size} title="GitHub" /></div>
         </Fade>
       </Grid>
     </Grid>
