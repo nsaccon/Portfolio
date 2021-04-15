@@ -1,8 +1,6 @@
 import { Grid } from "@material-ui/core";
 import Fade from "react-reveal/Fade";
-import Bounce from "react-reveal/Bounce";
-import Flip from "react-reveal/Flip";
-import { FaGit, FaJava } from "react-icons/fa";
+import { FaGit } from "react-icons/fa";
 import {
   SiJavascript,
   SiCsharp,
