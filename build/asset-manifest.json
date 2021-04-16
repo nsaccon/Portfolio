@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.381d9af8.chunk.css",
+    "main.js": "/static/js/main.1c02afc7.chunk.js",
+    "main.js.map": "/static/js/main.1c02afc7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.625281c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.625281c6.js.map",
+    "static/js/2.88f272c5.chunk.js": "/static/js/2.88f272c5.chunk.js",
+    "static/js/2.88f272c5.chunk.js.map": "/static/js/2.88f272c5.chunk.js.map",
+    "static/js/3.895a2def.chunk.js": "/static/js/3.895a2def.chunk.js",
+    "static/js/3.895a2def.chunk.js.map": "/static/js/3.895a2def.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.381d9af8.chunk.css.map": "/static/css/main.381d9af8.chunk.css.map",
+    "static/js/2.88f272c5.chunk.js.LICENSE.txt": "/static/js/2.88f272c5.chunk.js.LICENSE.txt",
+    "static/media/CollegeM8.1df7e484.png": "/static/media/CollegeM8.1df7e484.png",
+    "static/media/DocuSign.eb4d969c.png": "/static/media/DocuSign.eb4d969c.png",
+    "static/media/NateTop.bebd1d6c.png": "/static/media/NateTop.bebd1d6c.png",
+    "static/media/App.css": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.625281c6.js",
+    "static/js/2.88f272c5.chunk.js",
+    "static/css/main.381d9af8.chunk.css",
+    "static/js/main.1c02afc7.chunk.js"
+  ]
+}
