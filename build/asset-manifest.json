@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.381d9af8.chunk.css",
-    "main.js": "/static/js/main.1c02afc7.chunk.js",
-    "main.js.map": "/static/js/main.1c02afc7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.625281c6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.625281c6.js.map",
-    "static/js/2.88f272c5.chunk.js": "/static/js/2.88f272c5.chunk.js",
-    "static/js/2.88f272c5.chunk.js.map": "/static/js/2.88f272c5.chunk.js.map",
-    "static/js/3.895a2def.chunk.js": "/static/js/3.895a2def.chunk.js",
-    "static/js/3.895a2def.chunk.js.map": "/static/js/3.895a2def.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.381d9af8.chunk.css.map": "/static/css/main.381d9af8.chunk.css.map",
-    "static/js/2.88f272c5.chunk.js.LICENSE.txt": "/static/js/2.88f272c5.chunk.js.LICENSE.txt",
-    "static/media/CollegeM8.1df7e484.png": "/static/media/CollegeM8.1df7e484.png",
-    "static/media/DocuSign.eb4d969c.png": "/static/media/DocuSign.eb4d969c.png",
-    "static/media/NateTop.bebd1d6c.png": "/static/media/NateTop.bebd1d6c.png",
-    "static/media/App.css": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/Portfolio/static/css/main.f8c46c23.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6f9d4507.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6f9d4507.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.0d1a0055.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0d1a0055.js.map",
+    "static/js/2.9eb7d83b.chunk.js": "/Portfolio/static/js/2.9eb7d83b.chunk.js",
+    "static/js/2.9eb7d83b.chunk.js.map": "/Portfolio/static/js/2.9eb7d83b.chunk.js.map",
+    "static/js/3.605491a3.chunk.js": "/Portfolio/static/js/3.605491a3.chunk.js",
+    "static/js/3.605491a3.chunk.js.map": "/Portfolio/static/js/3.605491a3.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.f8c46c23.chunk.css.map": "/Portfolio/static/css/main.f8c46c23.chunk.css.map",
+    "static/js/2.9eb7d83b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9eb7d83b.chunk.js.LICENSE.txt",
+    "static/media/CollegeM8.1df7e484.png": "/Portfolio/static/media/CollegeM8.1df7e484.png",
+    "static/media/DocuSign.eb4d969c.png": "/Portfolio/static/media/DocuSign.eb4d969c.png",
+    "static/media/NateTop.bebd1d6c.png": "/Portfolio/static/media/NateTop.bebd1d6c.png",
+    "static/media/App.css": "/Portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.625281c6.js",
-    "static/js/2.88f272c5.chunk.js",
-    "static/css/main.381d9af8.chunk.css",
-    "static/js/main.1c02afc7.chunk.js"
+    "static/js/runtime-main.0d1a0055.js",
+    "static/js/2.9eb7d83b.chunk.js",
+    "static/css/main.f8c46c23.chunk.css",
+    "static/js/main.6f9d4507.chunk.js"
   ]
 }
