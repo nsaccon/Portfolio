@@ -15,10 +15,7 @@ const Header = () => {
               <h1 className="title">Nathan Saccon</h1>
             </Flip>
             <Bounce left delay={200}>
-              <h4>
-                I'm an <b>innovative back-end developer</b> with 16 months of
-                full-stack co-op work experience.
-              </h4>
+              <h4>I am a <b>passionate full-stack developer</b> with 16 months of experience in the insurance industry.</h4>
             </Bounce>
             <SocialIcons />
           </div>

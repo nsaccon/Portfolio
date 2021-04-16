@@ -34,37 +34,28 @@ const Experience = () => {
             <LightSpeed right cascade>
             <ul>
               <li>
-                Developed RESTful micro-services in Go and C# ASP .NET Core with
-                MongoDB &#38; MS SQL
+              Developed RESTful micro-services in C# .NET Core and SQL that perform core business functions
               </li>
               <li>
-                Improved existing APIs by addressing security weaknesses and
-                race condition vulnerabilities
+              Improved existing APIs by participating in code reviews and regular refactoring
               </li>
               <li>
-                Executed a rules service using Open Policy Agent from initial
-                design through completion
+              Creation of Golang logic for faster vendor underwriting rules solution
               </li>
               <li>
-                Knowledge with Docker containers and Kubernetes cluster
-                management on Azure
+              Integrate existing databases to expose data through APIs using Entity Framework Core
               </li>
               <li>
-                Introduced JSON structured logging and persisting Jaeger trace
-                and span IDs for traceability with Azure log analytics Kusto
-                queries and alerts
+              Productionize applications with Azure DevOps, Kubernetes, and Docker
               </li>
               <li>
-                Experienced with continuous integration tools such as
-                SonarCloud, and Snyk
+              Experienced with continuous integration tools such as SonarCloud, and Snyk
               </li>
               <li>
-                Collaborated in teams of 7-12, Agile dev environment, and
-                performing peer code review
+              Prepare documentation for technical and non-technical team members
               </li>
               <li>
-                Worked in using React JS components such as Router, and using
-                Material UI
+              Communicate effectively during agile ceremonies throughout the development process
               </li>
             </ul>
             </LightSpeed>

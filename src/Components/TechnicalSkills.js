@@ -10,26 +10,27 @@ const TechnicalSkills = () => {
     <div className="content-container">
       <Grid container spacing={2} justify="center">
         <Grid item xl={4}>
-        <Grid item xl={12}>
-          <Flip bottom>
-            <h3 className="title">Technical Skills</h3>
-            
-          </Flip>
+          <Grid item xl={12}>
+            <Flip bottom>
+              <h3 className="title">Technical Skills</h3>
+            </Flip>
           </Grid>
           <DevIcons />
         </Grid>
         <Grid item lg={6}>
           <Fade delay={800}>
             <p className="text">
-              Experienced back-end developer in RESTful architecture, GraphQL or
-              gRPC protocols. Driven to follow standards such as structured JSON
-              logging useful for debugging and data analytics querying, and most
-              importantly security and monitoring.
+              <b>Experienced</b> back-end developer in micro-service architecture,
+              building and maintaining C# .NET Core APIs. <b>Driven</b> to create
+              innovative solutions such as a Visual Studio template installer to
+              reduce the time it takes to create a new API by over an hour, as
+              part of the inner source group.
               <br />
-              <Roll delay={1500}><GoKebabHorizontal size="2em" className='popIcon' /></Roll>
+              <Roll delay={1500}>
+                <GoKebabHorizontal size="2em" className="popIcon" />
+              </Roll>
               <br />
-              Developed an efficient rules service using Open Policy Agent for
-              nationwide broker quoting.
+              Developed API that allows instant nationwide broker quoting, which connects third party brokers and the new pricing platform.
             </p>
           </Fade>
         </Grid>
