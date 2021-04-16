@@ -1,6 +1,8 @@
 # Nathan Saccon Portfolio
 
-## View the deployment here: [Portfolio Deployment](https://nsaccon.github.io/Portfolio/)
+ [View the deployment.](https://nsaccon.github.io/Portfolio/)
+
+Thank you for checking out my portfolio!
 
 ## Using The Project
 
