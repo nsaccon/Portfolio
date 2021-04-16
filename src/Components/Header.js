@@ -3,6 +3,7 @@ import Fade from "react-reveal/Fade";
 import Bounce from "react-reveal/Bounce";
 import Flip from "react-reveal/Flip";
 import SocialIcons from "./SocialIcons";
+import nate from '../Images/NateTop.png'
 
 const Header = () => {
   return (
@@ -25,6 +26,7 @@ const Header = () => {
         <Grid item lg={3}>
           <Fade delay={500} duration={400}>
             <img
+              src={nate}
               className="profile-picture"
               title="Nathan Saccon - TODO"
               alt="Nice Pic of nathan"
