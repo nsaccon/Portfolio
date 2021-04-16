@@ -59,8 +59,8 @@ const Projects = () => {
             <Fade left delay={200}>
               <p className="project-text">
                 This project is a C# console application that interacts with
-                Docusign’s API as part of a <b>billing system integration</b>. Created
-                to automatically charge clients for signed paperwork after the
+                Docusign’s API as part of a <b>billing system integration</b>. Created for a local law firm, this application
+                automatically charges clients for signed paperwork after the
                 signature process is completed. The need for this project arose
                 as part of the Covid-19 strategy to allow lawyers to work more
                 efficiently from home.
