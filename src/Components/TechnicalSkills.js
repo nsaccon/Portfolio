@@ -1,18 +1,21 @@
 import { Grid } from "@material-ui/core";
 import Fade from "react-reveal/Fade";
-import Bounce from "react-reveal/Bounce";
 import Flip from "react-reveal/Flip";
+import Roll from "react-reveal/Roll";
 import DevIcons from "./DevIcons";
-import { GrTechnology } from "react-icons/gr";
+import { GoKebabHorizontal } from "react-icons/go";
 
 const TechnicalSkills = () => {
   return (
     <div className="content-container">
       <Grid container spacing={2} justify="center">
-        <Grid item xl={4} className="dev-icons">
+        <Grid item xl={4}>
+        <Grid item xl={12}>
           <Flip bottom>
-            <h3 className="title"> Technical Skills </h3>
+            <h3 className="title">Technical Skills</h3>
+            
           </Flip>
+          </Grid>
           <DevIcons />
         </Grid>
         <Grid item lg={6}>
@@ -23,7 +26,7 @@ const TechnicalSkills = () => {
               logging useful for debugging and data analytics querying, and most
               importantly security and monitoring.
               <br />
-              <GrTechnology size="0.8em" />
+              <Roll delay={1500}><GoKebabHorizontal size="2em" className='popIcon' /></Roll>
               <br />
               Developed an efficient rules service using Open Policy Agent for
               nationwide broker quoting.

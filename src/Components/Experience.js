@@ -2,30 +2,36 @@ import { Grid } from "@material-ui/core";
 import Fade from "react-reveal/Fade";
 import Flip from "react-reveal/Flip";
 import { MdWork } from "react-icons/md";
+import LightSpeed from "react-reveal/LightSpeed";
 
 const Experience = () => {
   return (
     <>
-      <Grid container spacing={2}>
+      <Grid container spacing={2} justify="center">
         <Grid item xs={12}>
           <Fade top delay={100}>
             <h3 className="title">
-              <MdWork size="0.8em" /> Experience
+              <MdWork size="0.8em" className="popIcon" /> Experience
             </h3>
           </Fade>
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={2}>
           <Flip bottom delay={100}>
-            05/2019 – 08/2020
+            <div className="experience-side-text">05/2019 – 08/2020</div>
           </Flip>
           <Flip bottom delay={400}>
-            Cambridge ON
+            <div className="experience-side-text">Cambridge ON</div>
           </Flip>
         </Grid>
-        <Grid item xs={9}>
-          <div align="left">
-            <h4 className="experience-title">Software Developer Co-op</h4>
+        <Grid item xs={8}>
+          <div align="left"><Flip bottom delay={100}>
+          <h4 className="experience-title">Software Developer Co-op</h4>
+            </Flip>
+
+            <Flip bottom delay={400}>
             <h5 className="experience-description">Gore Mutual Insurance</h5>
+            </Flip>
+            <LightSpeed right cascade>
             <ul>
               <li>
                 Developed RESTful micro-services in Go and C# ASP .NET Core with
@@ -61,6 +67,7 @@ const Experience = () => {
                 Material UI
               </li>
             </ul>
+            </LightSpeed>
           </div>
         </Grid>
       </Grid>

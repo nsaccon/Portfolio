@@ -119,6 +119,9 @@ a.social-icon:hover {
 .devicon:hover {
   color: #ab5a35;
 }
+.popIcon {
+  color: #ab5a35;
+}
 
 .content-container ul {
   margin-top: 1.5rem;
@@ -128,7 +131,7 @@ a.social-icon:hover {
 
 .content-container ul li::before {
   content: "•";
-  color: #7f00e0;
+  color: #ab5a35;
   font-weight: bold;
   display: inline-block; 
   width: 1em;
@@ -143,23 +146,21 @@ a.social-icon:hover {
   padding-left: 1rem;
 }
 
-.experience-grid {
-  padding-bottom: 8rem;
-}
-
-.experience-date-location {
-  font-size: 1.5rem;
-  text-align: left;
-  font-weight: lighter;
-  color: #7f00e0;
-}
-
 .experience-title {
   font-weight: lighter;
   font-size: 2.5rem;
   margin-block-start: 0em;
   margin-block-end: 0.2em;
 }
+
+.experience-side-text {
+  font-size: 1.5rem;
+  text-align: left;
+  font-weight: lighter;
+  color:#ab5a35;
+}
+
+
 
 .experience-description {
   text-transform: uppercase;
@@ -199,7 +200,7 @@ a.social-icon:hover {
 }
 
 .project-text b {
-  color: #7f00e0;
+  color:#ab5a35;
 }
 
 .project-grid {

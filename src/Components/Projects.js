@@ -8,22 +8,22 @@ import imgDocuSign from '../Images/DocuSign.png'
 const Projects = () => {
   return (
     <div className="content-container">
-      <Grid container spacing={2}>
+      <Grid container spacing={2} justify="center">
         <Grid item xs={12}>
           <Fade top delay={100}>
             <h3 className="title">
-              <GoBeaker size="0.8em" /> Projects
+              <GoBeaker size="0.8em" className='popIcon' /> Projects
             </h3>
           </Fade>
         </Grid>
 
-        <Grid item xs={5}>
+        <Grid item xs={4}>
         <img src={imgCollegeM8}
                 title="CollegeM8 Login Screen" 
                 alt="Screenshot of CollegeM8 Login Screen" 
                 className="project-image" />
         </Grid>
-        <Grid item xs={7}>
+        <Grid item xs={6}>
             <div align='left'>
 
           <h4 className="project-title">CollegeM8</h4>
@@ -34,7 +34,7 @@ const Projects = () => {
         </Grid>
 
         
-        <Grid item xs={7}>
+        <Grid item xs={6}>
             <div align='left'>
 
           <h4 className="project-title">DocuSign Integration</h4>
@@ -43,7 +43,7 @@ const Projects = () => {
               </p>
               </div>
         </Grid>
-        <Grid item xs={5}>
+        <Grid item xs={4}>
         <img src={imgDocuSign}
                 title="DocuSign Logo" 
                 alt="DocuSign Logo" 
