@@ -12,7 +12,7 @@ const Header = () => {
         <Grid item lg={6}>
           <div className="header-text">
             <Flip top delay={50}>
-              <h1>Nathan Saccon</h1>
+              <h1 className="title">Nathan Saccon</h1>
             </Flip>
             <Bounce left delay={200}>
               <h4>

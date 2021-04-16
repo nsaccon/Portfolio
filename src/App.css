@@ -54,7 +54,7 @@ footer {
 }
 
 .header-text {
-  font-family: 'Bitter', serif !important;
+  font-family: Arial, Helvetica !important;
   text-align: left;
   position: relative;
   z-index: 2;
@@ -75,12 +75,12 @@ a.social-icon:hover {
 }
 
 .content-container h3 {
-  font-family: 'Bitter', serif !important;
+  font-family: Arial, Helvetica !important;
   font-size: 3rem;
 }
 
 .content-container .title {
-  font-family: 'Bitter', serif !important;
+  font-family: Arial, Helvetica !important;
   text-align: center;
   margin-bottom: 1em;
 }
