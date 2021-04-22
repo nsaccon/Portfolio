@@ -20,17 +20,16 @@ const TechnicalSkills = () => {
         <Grid item lg={6}>
           <Fade delay={800}>
             <p className="text">
-              <b>Experienced</b> back-end developer in micro-service
+              <b>Experienced</b> developer in micro-service
               architecture, building and maintaining C# .NET Core APIs.{" "}
               <b>Driven</b> to create innovative solutions such as a python
-              program that aims to predict the outcome of NHL games. On one
-              occasion, predicting 11 out of 11 games correctly.
+              program that predicts the outcome of NHL games. 
               <br />
               <Roll delay={1500}>
                 <GoKebabHorizontal size="2em" className="popIcon" />
               </Roll>
               <br />
-              <b>Effective</b> at developing an API that allows instant nationwide broker quoting, which connects third party brokers to the pricing engine.
+              <b>Effective</b> team member assisting in the planning, development, testing, and deployment of broker quoting API, that connects brokers to the pricing engine.
             </p>
           </Fade>
         </Grid>

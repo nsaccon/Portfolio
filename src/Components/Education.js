@@ -27,17 +27,17 @@ const Education = () => {
         <Grid item xs={8}>
           <div align="left">
             <Flip bottom delay={100}>
-              <h4 className="experience-title">Conestoga College</h4>
+              <h4 className="experience-title">IT Innovation and Design</h4>
             </Flip>
 
             <Flip bottom delay={400}>
               <h5 className="experience-description">
-                IT Innovation and Design
+              Conestoga College
               </h5>
             </Flip>
             <ul>
               <LightSpeed right>
-                <li>Maintaining a 3.94 GPA – graduating April 2021</li>
+                <li>Maintain a 3.94 GPA – graduating April 2021</li>
               </LightSpeed>
             </ul>
           </div>
