@@ -10,6 +10,7 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ab5a35 !important;
+  transition: all 0.2s;
 }
 
 .content-container {

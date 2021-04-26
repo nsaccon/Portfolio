@@ -25,8 +25,8 @@ const Header = () => {
             <img
               src={nate}
               className="profile-picture"
-              title="Nathan Saccon - TODO"
-              alt="Nice Pic of nathan"
+              title="Nathan Saccon"
+              alt="Nice Pic of Nathan"
             />
           </Fade>
         </Grid>

@@ -31,13 +31,12 @@ const Education = () => {
             </Flip>
 
             <Flip bottom delay={400}>
-              <h5 className="experience-description">
-              Conestoga College
-              </h5>
+              <h5 className="experience-description">Conestoga College</h5>
             </Flip>
             <ul>
               <LightSpeed right>
-                <li>Maintain a 3.94 GPA – graduating April 2021</li>
+                <li>Graduated April 2021</li>
+                <li>Maintained a 3.94 GPA</li>
               </LightSpeed>
             </ul>
           </div>
