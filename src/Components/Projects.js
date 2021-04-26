@@ -4,6 +4,7 @@ import { GoBeaker } from "react-icons/go";
 import imgCollegeM8 from "../Images/CollegeM8.png";
 import imgDocuSign from "../Images/DocuSign.png";
 import imgDHL from "../Images/DHL.jpg";
+import imgNateflix from "../Images/Nateflix.jpg";
 
 const Projects = () => {
   return (
@@ -14,6 +15,42 @@ const Projects = () => {
             <h3 className="title">
               <GoBeaker size="0.8em" className="popIcon" /> Projects
             </h3>
+          </Fade>
+        </Grid>
+
+        <Grid item xs={6}>
+          <div className="project-container" align="left">
+            <Fade left delay={600}>
+              <h4 className="project-title">Nateflix</h4>
+            </Fade>
+            <Fade left delay={200}>
+              <p className="project-text">
+                This project was <b>created to feel and act like Netflix</b>,
+                for the purpose of building my knowledge of react. Made with
+                react.js and redux, Nateflix uses the TMDb API to pull realtime
+                movie information. Authentication and hosting are implemented
+                with firebase.
+              </p>
+              <Fade right delay={500}>
+                <div>
+                  <a href="https://github.com/nsaccon/nateflix">
+                    View on Github
+                  </a>
+                  <br />
+                  <a href="https://nateflix-build.web.app/">View Deployment</a>
+                </div>
+              </Fade>
+            </Fade>
+          </div>
+        </Grid>
+        <Grid item xs={4}>
+          <Fade right delay={600}>
+            <img
+              src={imgNateflix}
+              title="Daily Hockey Lineups Logo"
+              alt="NHL Logo"
+              className="project-image"
+            />
           </Fade>
         </Grid>
 
@@ -47,6 +84,10 @@ const Projects = () => {
                 <a href="https://github.com/nsaccon/CollegeM8Capstone">
                   View on Github
                 </a>
+                <br />
+                <a href="https://mk519.github.io/projectdev2021/login.html">
+                  View Deployment
+                </a>
               </div>
             </Fade>
           </div>
@@ -60,18 +101,19 @@ const Projects = () => {
             <Fade left delay={200}>
               <p className="project-text">
                 Daily fantasy hockey prediction application built with python.
-                Developed to <b>predict the outcome of NHL games</b>, and predict the
-                players that will be most valuable based on how much they cost
-                on DraftKings and FanDuel. At one time the predictions were
-                posted on a blog that accumulated more than 100,000 pageviews.
+                Developed to <b>predict the outcome of NHL games</b>, and
+                predict the players that will be most valuable based on how much
+                they cost on DraftKings and FanDuel. At one time the predictions
+                were posted on a blog that accumulated more than 100,000
+                pageviews.
               </p>
               <Fade right delay={500}>
-              <div>
-                <a href="https://github.com/nsaccon/DHLineups">
-                  View on Github
-                </a>
-              </div>
-            </Fade>
+                <div>
+                  <a href="https://github.com/nsaccon/DHLineups">
+                    View on Github
+                  </a>
+                </div>
+              </Fade>
             </Fade>
           </div>
         </Grid>
