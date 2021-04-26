@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f8c46c23.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5d50ae50.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5d50ae50.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.9faf5f29.chunk.css",
+    "main.js": "/Portfolio/static/js/main.85dabbe7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.85dabbe7.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.0d1a0055.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0d1a0055.js.map",
-    "static/js/2.9eb7d83b.chunk.js": "/Portfolio/static/js/2.9eb7d83b.chunk.js",
-    "static/js/2.9eb7d83b.chunk.js.map": "/Portfolio/static/js/2.9eb7d83b.chunk.js.map",
+    "static/js/2.095eebf2.chunk.js": "/Portfolio/static/js/2.095eebf2.chunk.js",
+    "static/js/2.095eebf2.chunk.js.map": "/Portfolio/static/js/2.095eebf2.chunk.js.map",
     "static/js/3.605491a3.chunk.js": "/Portfolio/static/js/3.605491a3.chunk.js",
     "static/js/3.605491a3.chunk.js.map": "/Portfolio/static/js/3.605491a3.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.f8c46c23.chunk.css.map": "/Portfolio/static/css/main.f8c46c23.chunk.css.map",
-    "static/js/2.9eb7d83b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9eb7d83b.chunk.js.LICENSE.txt",
+    "static/css/main.9faf5f29.chunk.css.map": "/Portfolio/static/css/main.9faf5f29.chunk.css.map",
+    "static/js/2.095eebf2.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.095eebf2.chunk.js.LICENSE.txt",
     "static/media/CollegeM8.1df7e484.png": "/Portfolio/static/media/CollegeM8.1df7e484.png",
     "static/media/DHL.39c7184c.jpg": "/Portfolio/static/media/DHL.39c7184c.jpg",
     "static/media/DocuSign.eb4d969c.png": "/Portfolio/static/media/DocuSign.eb4d969c.png",
     "static/media/NateTop.bebd1d6c.png": "/Portfolio/static/media/NateTop.bebd1d6c.png",
+    "static/media/Nateflix.0310ea8b.jpg": "/Portfolio/static/media/Nateflix.0310ea8b.jpg",
     "static/media/App.css": "/Portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d1a0055.js",
-    "static/js/2.9eb7d83b.chunk.js",
-    "static/css/main.f8c46c23.chunk.css",
-    "static/js/main.5d50ae50.chunk.js"
+    "static/js/2.095eebf2.chunk.js",
+    "static/css/main.9faf5f29.chunk.css",
+    "static/js/main.85dabbe7.chunk.js"
   ]
 }
