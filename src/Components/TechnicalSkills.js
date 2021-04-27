@@ -21,7 +21,7 @@ const TechnicalSkills = () => {
           <Fade delay={800}>
             <p className="text">
               <b>Experienced</b> developer in micro-service
-              architecture, building and maintaining C# .NET Core APIs.{" "}
+              architecture, designing, building, testing and deploying C# .NET Core APIs.{" "}
               <b>Driven</b> to create innovative solutions such as a python
               program that predicts the outcome of NHL games. 
               <br />

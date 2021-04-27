@@ -27,7 +27,7 @@ const Projects = () => {
               <p className="project-text">
                 This project was <b>created to feel and act like Netflix</b>,
                 for the purpose of building my knowledge of react. Made with
-                react.js and redux, Nateflix uses the TMDb API to pull realtime
+                React.js and Redux, Nateflix uses the TMDb API to pull realtime
                 movie information. Authentication and hosting are implemented
                 with firebase.
               </p>
@@ -76,7 +76,7 @@ const Projects = () => {
                 the API that interacts with the front-end, as well as the AI
                 algorithm that intelligently generates a schedule tailored to
                 the student. Implemented with C# and EF Core, and hosted on MS
-                Azure servers.
+                Azure servers. Interacts with a frontend, and created as part of a group project.
               </p>
             </Fade>
             <Fade right delay={500}>
