@@ -31,7 +31,7 @@ const Projects = () => {
                 movie information. Authentication and hosting are implemented
                 with firebase.
               </p>
-              <Fade right delay={500}>
+              <Fade left delay={500}>
                 <div>
                   <a href="https://github.com/nsaccon/nateflix">
                     View on Github

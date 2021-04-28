@@ -10,6 +10,10 @@ a:link, a:visited {
 
 a:hover, a:active {
   color:#ab5a35 !important;
+}
+
+a.social-icon:hover {
+  transform: scale(1.2);
   transition: all 0.2s;
 }
 
@@ -71,9 +75,7 @@ footer {
   line-height: 1.65;
 }
 
-a.social-icon:hover {
-  background: #d6b39a;
-}
+
 
 .content-container h3 {
   font-family: Arial, Helvetica !important;
@@ -98,6 +100,7 @@ a.social-icon:hover {
 .devicon:hover {
   color: #ab5a35;
 }
+
 .popIcon {
   color: #ab5a35;
 }
