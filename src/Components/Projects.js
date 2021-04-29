@@ -71,7 +71,7 @@ const Projects = () => {
             </Fade>
             <Fade right delay={200}>
               <p className="project-text">
-                This project is a web-based <b>AI planning application</b> that
+                Award winning project that is a web-based <b>AI planning application</b> that
                 is designed to help students organize their schedules. Developed
                 the API that interacts with the front-end, as well as the AI
                 algorithm that intelligently generates a schedule tailored to
