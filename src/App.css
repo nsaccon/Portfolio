@@ -183,3 +183,15 @@ footer {
   padding-top: 3rem;
   padding-bottom: 6rem;
 }
+
+.projects_award{
+  display: flex;
+}
+
+.projects_awardIcon{
+  padding-right: 20px;
+  color:#ab5a35
+}
+.projects_awardText > b{
+  font-weight: 500;
+}

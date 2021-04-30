@@ -1,6 +1,7 @@
 import { Grid } from "@material-ui/core";
 import Fade from "react-reveal/Fade";
 import { GoBeaker } from "react-icons/go";
+import { FaAward } from "react-icons/fa";
 import imgCollegeM8 from "../Images/CollegeM8.png";
 import imgDocuSign from "../Images/DocuSign.png";
 import imgDHL from "../Images/DHL.jpg";
@@ -54,7 +55,7 @@ const Projects = () => {
           </Fade>
         </Grid>
 
-        <Grid item xs={4}>
+        <Grid item xs={6}>
           <Fade left delay={600}>
             <img
               src={imgCollegeM8}
@@ -70,13 +71,26 @@ const Projects = () => {
               <h4 className="project-title">CollegeM8</h4>
             </Fade>
             <Fade right delay={200}>
+            <div className="projects_award">
+                <FaAward
+                  className="projects_awardIcon"
+                  size="1.8em"
+                  title="Capstone Project 'Best of Program' Award - April 2021"
+                />
+                <div className="projects_awardText">
+                  <b>Capstone Project 'Best of Program' Award</b> - April 2021
+                </div>
+              </div>
+            </Fade>
+            <Fade right delay={200}>
+              
               <p className="project-text">
-                Award winning project that is a web-based <b>AI planning application</b> that
-                is designed to help students organize their schedules. Developed
-                the API that interacts with the front-end, as well as the AI
-                algorithm that intelligently generates a schedule tailored to
-                the student. Implemented with C# and EF Core, and hosted on MS
-                Azure servers. Interacts with a frontend, and created as part of a group project.
+                This project is a web-based <b>automatic planner application</b>{" "}
+                that is designed to help students organize their schedules.
+                Developed with a C# API that interacts with the front-end, as well as
+                the AI algorithm that intelligently generates a schedule
+                tailored to the student. Implemented with C# and EF Core, and
+                hosted on MS Azure servers. Created as part of a group capstone project for the IT Innovation and Design program.
               </p>
             </Fade>
             <Fade right delay={500}>
@@ -128,7 +142,7 @@ const Projects = () => {
           </Fade>
         </Grid>
 
-        <Grid item xs={4}>
+        <Grid item xs={6}>
           <Fade right delay={600}>
             <img
               src={imgDocuSign}
