@@ -25,11 +25,11 @@ const Experience = () => {
         </Grid>
         <Grid item xs={8}>
           <div align="left"><Flip bottom delay={100}>
-          <h4 className="experience-title">Software Developer Co-op</h4>
+          <h4 className="experience-title">Gore Mutual Insurance</h4>
             </Flip>
 
             <Flip bottom delay={400}>
-            <h5 className="experience-description">Gore Mutual Insurance</h5>
+            <h5 className="experience-description">Software Developer Co-op</h5>
             </Flip>
             <LightSpeed right cascade>
             <ul>
