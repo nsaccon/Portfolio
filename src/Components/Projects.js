@@ -88,7 +88,7 @@ const Projects = () => {
                 This project is a web-based <b>automatic planner application</b>{" "}
                 that is designed to help students organize their schedules.
                 Developed with a C# API that interacts with the front-end, as well as
-                the AI algorithm that intelligently generates a schedule
+                the algorithm that intelligently generates a schedule
                 tailored to the student. Implemented with C# and EF Core, and
                 hosted on MS Azure servers. Created as part of a group capstone project for the IT Innovation and Design program.
               </p>
