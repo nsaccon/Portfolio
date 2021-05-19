@@ -218,3 +218,8 @@ footer {
   margin-block-start: 0.2em;
   margin-block-end: 0.2em;
 }
+
+.education_smallAddition{
+  font-size: 1.3rem;
+  color:#ab5a35;
+}
