@@ -34,7 +34,7 @@ const Education = () => {
             </Flip>
             <ul>
               <LightSpeed right>
-                <li>Achieved "President’s Honour List" <i className="education_smallAddition"> - Awarded for highest average in graduating class</i></li>
+                <li>Achieved "President’s Honour List" <i className="education_smallAddition"> - Awarded for highest average in the program</i></li>
                 <li>Awarded "High Distinction"</li>
                 <li>Graduated April 2021 with 3.95 GPA</li>
               </LightSpeed>
